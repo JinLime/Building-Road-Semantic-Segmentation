@@ -13,7 +13,7 @@ Preprocessing.ipynb : GeoJson에서 도로와 건물 추출 및 데이터 전처
 
 ## Reference
 
-
+https://quaint-woodwind-b6d.notion.site/2de9b2ee05c442f78e96f4f1ad34e343
 
 ## Contact
 
