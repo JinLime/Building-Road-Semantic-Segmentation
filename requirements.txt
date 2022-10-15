@@ -1,0 +1,5 @@
+torch 1.9.1
+numpy 1.19.5
+cv2 4.5.4
+segmentation_models_pytorch 0.2.1
+albumentations 1.1.0
