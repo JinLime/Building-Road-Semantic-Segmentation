@@ -7,7 +7,7 @@
 2021년 10월 22일 ~ 2021년 12월 5일
 
 ## Summary 
-<img src="./img/Summary.png"  width="1000" height="200"/>
+<img src="./img/Summary.png"  width="1000" height="400"/>
 
 Preprocessing.ipynb : GeoJson에서 도로와 건물 추출 및 데이터 전처리
 
