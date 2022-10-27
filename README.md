@@ -1,6 +1,6 @@
 # Building and Road Semantic Segmentation
 
-## Project: 인공위성 이미지에서 건물과 도로 탐지
+## Project: SIA x 인공위성 이미지에서 건물과 도로 탐지
 
 ## Term
 
